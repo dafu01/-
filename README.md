@@ -26,14 +26,14 @@ Python 3.6 或更高版本
 ### 使用步骤
 
 下载脚本
-bash
-git clone https://github.com/yourusername/batch-rename-helper.git
+
+git clone https://github.com/dafu01/batch-rename-helper.git
+
 cd batch-rename-helper
 
 运行程序
-bash
-python batch_rename_helper.py
 
+python rename.py
 
 ### 主菜单操作
 
